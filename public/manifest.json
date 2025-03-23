@@ -2,7 +2,7 @@
   "id": "/",
   "scope": "/",
   "name": "MyPWA",
-  "display": "fullscreen",
+  "display": "minimal-ui",
   "start_url": "/",
   "short_name": "starter",
   "theme_color": "#E1477E",
